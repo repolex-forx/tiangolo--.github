@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "tiangolo",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "d2f19734f3cae6f08696910656122f497c96a70d",
+      "parsed_at": "2026-10-11T09:15:27.332181+00:00",
+      "filetree": "filetree/d2f19734f3cae6f08696910656122f497c96a70d.nq.gz",
+      "blobs": [
+        "blob/999d9f97e48e52bf4fec7d459d271af6e17bf09d.nq.gz",
+        "blob/97908a5c756428ac7a23c5e1cebd6ec2901cee49.nq.gz",
+        "blob/0ffc101a3f23548392499fe5104f3f8cf4d4e91b.nq.gz",
+        "blob/730d80f5d82d416bc848c1efb93155a33141fc3e.nq.gz",
+        "blob/ac2d15cd39952ac04a9dbe46dca8fab0f610f285.nq.gz",
+        "blob/eaec464feaa2222d5f7c59b0ad7307c5ace08786.nq.gz",
+        "blob/fd1cfee3a37d3c541bdeef5f16a1ecd6ee0a0828.nq.gz",
+        "blob/034bde4b1e1e1081e7112625ab0bcfbf6073cafa.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}

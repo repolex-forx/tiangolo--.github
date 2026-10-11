@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/.github/commit/d2f19734f3cae6f08696910656122f497c96a70d",
       "git:hexsha": "d2f19734f3cae6f08696910656122f497c96a70d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
